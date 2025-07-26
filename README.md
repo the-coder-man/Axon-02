@@ -105,8 +105,8 @@ Then retrain or restart the chatbot to include the new patterns.
 Ask:
 
 ```text
-> What is climate change?
-> Who is Ada Lovelace?
+>  climate change
+>  Ada Lovelace
 ```
 
 The bot uses Wikipedia to summarize the answer for you.
